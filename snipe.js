@@ -1257,7 +1257,7 @@ AI-driven. Battle-tested. Locked down.
 ${walletLine}
 
 🏦 *Robinhood x your fast sniper bot*
-Paste any Solana contract address to analyze
+Paste your ROBINHOOD wallet to analyze
   `;
 
   const keyboard = Markup.inlineKeyboard([
