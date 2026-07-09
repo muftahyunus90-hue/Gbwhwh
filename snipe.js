@@ -1256,7 +1256,7 @@ AI-driven. Battle-tested. Locked down.
 ━━━━━━━━━━━━━━━━━━
 ${walletLine}
 
-🏦 *Solbix your fast sniper bot*
+🏦 *Robinhood x your fast sniper bot*
 Paste any Solana contract address to analyze
   `;
 
