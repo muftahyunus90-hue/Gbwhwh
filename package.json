@@ -1,7 +1,7 @@
 {
-  "name": "axiom - trading-bot",
+  "name": "robinhood - trading-bot",
   "version": "1.0.0",
-  "description": "Solana Trading Bot with Deposit/Transfer Features",
+  "description": "Roninhood Trading Bot with Deposit/Transfer Features",
   "main": "snipe.js",
   "type": "module",
   "scripts": {
