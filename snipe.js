@@ -1,5 +1,5 @@
 // ============================================
-//AXIOM TRADING BOT - Complete Implementation
+//ROBINHOOD TRADING BOT - Complete Implementation
 // with Debug Logging & Professional Messages 
 // ============================================
 import { Telegraf, Markup } from 'telegraf';
@@ -35,7 +35,7 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const BOT_NAME = 'Pegasus Trading Bot';
+const BOT_NAME = 'ROBINHOOD Trading Bot';
 
 // Register custom fonts (optional)
 const FONT_DIR = __dirname;
